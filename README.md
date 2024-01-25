@@ -20,3 +20,6 @@ This project focuses on extracting valuable insights from the abundance of textu
 3. **Report:**
    - [`Final Report`](https://github.com/NaveenV110/Sentiment-Analysis-of-Product-Reviews/blob/main/CSCI5502___Final_Project_Report.pdf): Elaborate Accounting of Data Analysis, Methodologies and Results of the project.
 
+---
+
+*Note: This README serves as a guide to the contents of the repository. Please refer to specific files for in-depth information and analysis.*
