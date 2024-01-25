@@ -17,3 +17,6 @@ This project focuses on extracting valuable insights from the abundance of textu
    - [`pre_process.py`](https://github.com/NaveenV110/Sentiment-Analysis-of-Product-Reviews/blob/main/pre_process.py): Contains utilities that help in preprocessing the textual data.
    - [`model.py`](https://github.com/NaveenV110/Sentiment-Analysis-of-Product-Reviews/blob/main/model.py): Comprises of functions required to train and evaluate the model.
    - [`main.ipynb`](https://github.com/NaveenV110/Sentiment-Analysis-of-Product-Reviews/blob/main/main.ipynb): Contains execution of the project, with processes like Data Pre-processing, Analysis, Vectorization and Modelling.
+3. **Report:**
+   - [`Final Report`](https://github.com/NaveenV110/Sentiment-Analysis-of-Product-Reviews/blob/main/CSCI5502___Final_Project_Report.pdf): Elaborate Accounting of Data Analysis, Methodologies and Results of the project.
+
